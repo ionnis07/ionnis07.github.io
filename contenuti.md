@@ -218,11 +218,11 @@ Le competenze tecniche che imparo a scuola hanno valore solo se usate con etica.
 
 ---
 
-## 6. FSL (ex PCTO) — Percorso per le Competenze Trasversali e l'Orientamento
+## 6. FSL (ex FSL) — Percorso per le Competenze Trasversali e l'Orientamento
 
 ### 6.1 L'azienda: Croce Verde Ostra
 
-Ho svolto il mio percorso di FSL (ex PCTO) presso la **Croce Verde di Ostra**, con sede a Casine (AN). È un'associazione di pubblica assistenza fondamentale per il territorio, che si occupa di emergenza sanitaria e servizi sociali. È un ambiente dove l'organizzazione deve essere perfetta, poiché si ha a che fare con la salute delle persone e con situazioni critiche.
+Ho svolto il mio percorso di FSL (ex FSL) presso la **Croce Verde di Ostra**, con sede a Casine (AN). È un'associazione di pubblica assistenza fondamentale per il territorio, che si occupa di emergenza sanitaria e servizi sociali. È un ambiente dove l'organizzazione deve essere perfetta, poiché si ha a che fare con la salute delle persone e con situazioni critiche.
 
 ### 6.2 Il mio ruolo: Gestione Logistica e Operativa
 
