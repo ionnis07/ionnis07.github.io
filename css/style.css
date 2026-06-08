@@ -214,8 +214,49 @@ section {
   gap: 1rem;
 }
 
+.grid-subjects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.subject-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 220px;
+  padding: 1.8rem;
+  text-decoration: none;
+  color: inherit;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.subject-tile:hover {
+  transform: translateY(-6px);
+  border-color: rgba(217, 108, 47, 0.3);
+  box-shadow: 0 22px 40px rgba(47, 53, 66, 0.08);
+}
+
+.subject-icon {
+  width: 42px;
+  height: 42px;
+  margin-bottom: 1.3rem;
+  color: var(--accent);
+}
+
+.subject-cta {
+  margin-top: 1.5rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .passion-block {
   display: grid;
+  flex-direction: column;
   grid-template-columns: 1.5fr 1fr;
   gap: 2rem;
   align-items: center;
