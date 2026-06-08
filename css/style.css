@@ -265,6 +265,7 @@ section {
   border-radius: 28px;
   padding: 2rem;
   box-shadow: var(--shadow);
+  margin-bottom: 2.5rem;
 }
 
 .passion-block.reverse {
